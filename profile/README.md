@@ -36,7 +36,15 @@ We also intend to power the web app using Machine Learning which would help peop
 
 <h2 align="center">SCREENSHOTS</h2>
 
-<h4>To be added soon...</h4>
+<img width="312" alt="image" src="https://github.com/user-attachments/assets/4761f9fc-d59a-4906-8eb9-328f3a395d13" />
+<img width="312" alt="image" src="https://github.com/user-attachments/assets/c6bfe17b-407a-4ef9-adb5-1296e0d77439" />
+<img width="312" alt="image" src="https://github.com/user-attachments/assets/5f70aaaf-79a7-4fe0-8e71-45d1c580b11a" />
+<img width="312" alt="image" src="https://github.com/user-attachments/assets/cbe7b2e7-a06b-49ca-8365-e1d335003cc4" />
+<img width="312" alt="image" src="https://github.com/user-attachments/assets/23b29f34-3c3c-4e4a-9cdc-13446b1140a8" />
+<img width="312" alt="image" src="https://github.com/user-attachments/assets/97d6376e-01b1-4012-bb78-90d4ca8d2f7a" />
+<img width="312" alt="image" src="https://github.com/user-attachments/assets/6633f2cc-7f0a-4e32-bac1-c5a466097e7e" />
+<img width="312" alt="image" src="https://github.com/user-attachments/assets/543c9e02-939c-4c21-ba43-213c6f3e15fe" />
+
 
 <h2 align="center">CONTRIBUTORS</h2>
 
